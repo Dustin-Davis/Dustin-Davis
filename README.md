@@ -1,18 +1,16 @@
-### Hello World 👋
-
+### Welcome 👋
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustin-Davis&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Dustin-Davis/Dustin-Davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :books: Stack - React, JavaScript, Node.js, Express, CSS3, HTML5
+- :hammer: Tools - PostgreSQL, Babel, Webpack, Material Ui, Next.js, npm, Git, Github, Slack
+- :coffee: Open to learning new things 
 
-Here are some ideas to get you started:
+### :speech_balloon: About Me
+---
+I'm Dustin, a frontend engineer who recently graduated from an accelerated-learning program. I know Javascript, React, Node.js, CSS and more but i am open to learn anything. I like learning new things in my free time and maintaining the knowledge i already have.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+---
+- [Linkedln](https://www.linkedin.com/in/dustin-davis99/)
+
