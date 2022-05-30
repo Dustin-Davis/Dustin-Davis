@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dustin-Davis&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 - :books: Stack - React, JavaScript, Node.js, Express, CSS3, HTML5
-- :hammer: Tools - PostgreSQL, Babel, Webpack, Material Ui, Next.js, npm, Git, Github, Slack
+- :hammer: Tools - PostgreSQL, Babel, Webpack, Material Ui, npm, Git, Github, Slack
 - :coffee: Open to learning new things 
 
 ### :speech_balloon: About Me
