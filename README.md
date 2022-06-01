@@ -13,4 +13,6 @@ I'm Dustin, a frontend engineer who recently graduated from an accelerated-learn
 ### 📫 How to reach me
 ---
 - [LinkedIn](https://www.linkedin.com/in/dustin-davis99/)
+- [Resume](https://github.com/Dustin-Davis/Dustin-Davis/files/8819021/Dustin_Davis_Resume.pdf)
+
 
